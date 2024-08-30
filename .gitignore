@@ -1,0 +1,17 @@
+**/__pycache__/
+
+# Ignore the entire .idea directory
+.idea/
+
+# Ignore the entire docs directory
+docs/
+
+# Ignore yelp data
+Yelp-CptS451.zip
+
+# Ignore the entire sql_files directory
+sql_files/
+
+# Ignore the entire yelpInput directory
+yelpInput/
+

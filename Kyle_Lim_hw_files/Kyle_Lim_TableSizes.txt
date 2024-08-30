@@ -1,0 +1,71 @@
+Relation: zipcode
+ table_name | row_count
+------------+-----------
+ zipcode    |     32630
+(1 row)
+
+Relation: business
+ table_name | row_count
+------------+-----------
+ business   |     11481
+(1 row)
+
+Relation: business_hours
+   table_name   | row_count
+----------------+-----------
+ business_hours |     55502
+(1 row)
+
+Relation: business_categories
+     table_name      | row_count
+---------------------+-----------
+ business_categories |     33619
+(1 row)
+
+Relation: categories
+ table_name | row_count
+------------+-----------
+ categories |       226
+(1 row)
+
+Relation: business_attributes
+     table_name      | row_count
+---------------------+-----------
+ business_attributes |         0
+(1 row)
+
+Relation: attributes
+ table_name | row_count
+------------+-----------
+ attributes |         0
+(1 row)
+
+Relation: checkin_day
+ table_name  | row_count
+-------------+-----------
+ checkin_day |     67407
+(1 row)
+
+Relation: checkin_hour
+  table_name  | row_count
+--------------+-----------
+ checkin_hour |    481360
+(1 row)
+
+Relation: review
+ table_name | row_count
+------------+-----------
+ review     |    416479
+(1 row)
+
+Relation: yelp_user
+ table_name | row_count
+------------+-----------
+ yelp_user  |    192999
+(1 row)
+
+Relation: friend
+ table_name | row_count
+------------+-----------
+ friend     |   1052706
+(1 row)
